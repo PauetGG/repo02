@@ -9,5 +9,5 @@
 |`git commit -m "Mensaje del commit"`| Para añadir los ficheros del staging area al repositorio local | Cuando quieras guardar el progreso actual al repositorio local |  |
 |`git rm --cached`| Para quitar los ficheros del staging area al WD | Cuando quieras quitar un fichero que antes querías hacer commit | `git rm --cached fichero` para quitar solo un fichero/ `git rm --cached -r .` para quitar todos los ficheros   |
 |`git log`| Para visualizar los commits realizados | Cuando te interese ver los commits o para saber si está sincronizado con el repositorio remoto |  |
-|`git push`| Para subir el commit al repositorio remoto | Cuando quieras compartir los commits realizados a la nube | `git push -f`para forzar el push/ git   |
+|`git push`| Para subir el commit al repositorio remoto | Cuando quieras compartir los commits realizados a la nube | `git push -f`para forzar el push   |
 |`git log`| aligned | centered | aligned  |
